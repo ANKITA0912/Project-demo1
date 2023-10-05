@@ -1,2 +1,3 @@
 # Project-demo1
-my first project
+my first git project
+Author ankita bharambe
